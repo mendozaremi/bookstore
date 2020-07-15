@@ -26,18 +26,19 @@ form div {
   background-color: #30e3ca;
 }
 
-.navItemsContainer {
-  display: flex;
-  float: right;
-  padding-right: 100px;
-  padding-top: 20px;
-  font-family: 'Inter', sans-serif;
-}
-
 .navTitle {
   display: flex;
   float: left;
   padding-left: 100px;
   padding-top: 10px;
   font-family: 'Inter', sans-serif;
+}
+
+.navItemsContainer {
+  display: flex;
+  float: right;
+  padding-right: 100px;
+  padding-top: 20px;
+  font-family: 'Inter', sans-serif;
+  margin: 5px;
 }
